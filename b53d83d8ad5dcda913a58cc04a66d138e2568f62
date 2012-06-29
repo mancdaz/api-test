@@ -15,3 +15,5 @@
 'job details jenkins-github-plugin-test-14'
 
 'the full output from the build job can be seen here http://build.monkeypuppetlabs.com:8080/job/github-plugin-test/'
+
+'this commit was tested by jenkins job github-plugin-test'
