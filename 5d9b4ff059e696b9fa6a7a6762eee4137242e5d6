@@ -3,3 +3,5 @@
 'job details jenkins-github-plugin-test-18'
 
 'the full output from the build job can be seen here http://build.monkeypuppetlabs.com:8080/job/github-plugin-test/18/'
+
+'this commit was tested by jenkins job github-plugin-test'
